@@ -1,0 +1,25 @@
+{
+    "MaliciousNode": {
+        "name": "MaliciousNode",
+        "host": "localhost",
+        "port": 5003,
+        "node_id": "",
+        "consensus": "POW",
+        "status": "Online",
+        "peers": 4,
+        "blocks": 1,
+        "transactions": 1,
+        "role": "Malicious"
+    },
+    "Node6": {
+        "name": "Node6",
+        "host": "localhost",
+        "port": 5005,
+        "node_id": "",
+        "consensus": "POW",
+        "status": "Online",
+        "peers": 1,
+        "blocks": 1,
+        "transactions": 1
+    }
+}
